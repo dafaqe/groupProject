@@ -1,0 +1,1 @@
+java --module-path C:\Users\skarp_qy2p14l\Desktop\javafx-sdk-11.0.2\lib --add-modules=javafx.controls RaceServer
